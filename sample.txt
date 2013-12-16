@@ -3,3 +3,4 @@ masterブランチがすすんでいた場合はどうなる?
 bugfixとして変更するぞ
 rebaseでmasterブランチがすすんでいた場合はどうなる?
 
+rebaseでどうなる
